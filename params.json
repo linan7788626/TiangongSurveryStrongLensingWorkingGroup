@@ -1,0 +1,6 @@
+{
+  "name": "Tiangong Survey Strong Lensing Working Group",
+  "tagline": "",
+  "body": "What is Tiangong Survey?\r\n\r\nWhat is the goal of this project?\r\n\r\nWhat is our plan?\r\n\r\n### Simulations\r\n\r\n- Building a light cone of sources using HUDF data.\r\n- Extracting lenses from [the Illustris Simulation](http://www.illustris-project.org).\r\n\t* Surface Density Maps\r\n\t* Light distribution of lenses  \r\n- Ray-tracing light rays through the lenses for sources.\r\n- Stacking lensed sources and images of lenses.\r\n- Mock observing: PSF, noise, and bright stars. \r\n\r\n### Lens Finding\r\n\r\n- Training set (10000 fits files with or without lensed images).\r\n- Building a lens-finding pipeline based on [Theano](https://github.com/Theano/Theano).\r\n\r\n### Lens Modeling\r\n\r\n- Applying lens-modeling codes on found lensing systems. \r\n- Constraining the mass function of subhalos in the lens.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
